@@ -1,0 +1,141 @@
+{
+  "repository": "https://github.com/bryllim/workout-guide",
+  "revision": "aac599224bb9780305239607ef98540b7e0ce389",
+  "license": "CC BY-SA 4.0",
+  "items": [
+    {
+      "exerciseId": "lib-lateral-lunge-bodyweight",
+      "manifestEntry": {
+        "id": "exercise-lateral-lunge",
+        "slug": "lateral-lunge",
+        "name": "Lateral Lunge",
+        "exerciseType": "bodyweight_reps",
+        "equipment": "Bodyweight",
+        "primaryMuscle": "Quads",
+        "secondaryMuscles": [
+          "Glutes",
+          "Hamstrings",
+          "Core"
+        ],
+        "isStretch": false,
+        "frames": [
+          {
+            "index": 1,
+            "path": "assets/lateral-lunge/frame-1.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          {
+            "index": 2,
+            "path": "assets/lateral-lunge/frame-2.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          {
+            "index": 3,
+            "path": "assets/lateral-lunge/frame-3.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          }
+        ],
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      "file": "web/artwork/lateral-lunge/frame-1.svg",
+      "sha256": "1bbbddeb9c8ecb87835129f1c776d075433dfaaed3b727ade00538507c85a090",
+      "review": "First frame visually inspected; movement and equipment match. Unchanged source SVG."
+    },
+    {
+      "exerciseId": "lib-lateral-lunge-dumbbell",
+      "manifestEntry": {
+        "id": "exercise-dumbbell-lateral-lunge",
+        "slug": "dumbbell-lateral-lunge",
+        "name": "Dumbbell Lateral Lunge",
+        "exerciseType": "weight_reps",
+        "equipment": "Dumbbell",
+        "primaryMuscle": "Quads",
+        "secondaryMuscles": [
+          "Glutes",
+          "Adductors",
+          "Hamstrings"
+        ],
+        "isStretch": false,
+        "frames": [
+          {
+            "index": 1,
+            "path": "assets/dumbbell-lateral-lunge/frame-1.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          {
+            "index": 2,
+            "path": "assets/dumbbell-lateral-lunge/frame-2.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          {
+            "index": 3,
+            "path": "assets/dumbbell-lateral-lunge/frame-3.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          }
+        ],
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      "file": "web/artwork/dumbbell-lateral-lunge/frame-1.svg",
+      "sha256": "72dc93130d3c789465532bffe92b35473b1a8630f3c1274b2eaef9b293291bed",
+      "review": "First frame visually inspected; movement and equipment match. Unchanged source SVG."
+    }
+  ]
+}

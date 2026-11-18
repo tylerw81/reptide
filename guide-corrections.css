@@ -1,0 +1,8 @@
+.guide-correction { min-width:0; }
+.guide-correction .input { width:100%; min-width:0; box-sizing:border-box; border:1px solid var(--line); border-radius:12px; padding:12px; background:var(--paper); color:var(--ink); }
+.guide-correction-check { display:flex; gap:12px; align-items:center; padding:14px 0; font-weight:650; }
+.guide-correction-check input { width:22px; height:22px; flex-shrink:0; accent-color:var(--green); }
+.guide-correction-badge { display:inline-block; padding:7px 11px; border:1px solid var(--line); border-radius:9px; color:var(--green); font-size:13px; font-weight:700; }
+.guide-correction .muted { font-size:13px; line-height:1.5; overflow-wrap:anywhere; }
+.guide-correction-footnote { margin-top:16px; }
+.guide-correction .field { display:block; margin:12px 0 8px; }

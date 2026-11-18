@@ -1,0 +1,400 @@
+{
+  "repository": "https://github.com/bryllim/workout-guide",
+  "revision": "aac599224bb9780305239607ef98540b7e0ce389",
+  "license": "CC BY-SA 4.0",
+  "items": [
+    {
+      "exerciseId": "lib-assault-bike",
+      "file": "web/artwork/assault-bike/frame-1.svg",
+      "sha256": "6230adf8fd5a32b9f894c567c94f7d5f5ff2b44a16405ef9b937847c3132821c",
+      "manifestEntry": {
+        "id": "exercise-assault-bike",
+        "slug": "assault-bike",
+        "name": "Assault Bike",
+        "exerciseType": "distance_duration",
+        "equipment": "Cardio",
+        "primaryMuscle": "Legs",
+        "secondaryMuscles": [
+          "Cardio",
+          "Shoulders"
+        ],
+        "isStretch": false,
+        "frames": [
+          {
+            "index": 1,
+            "path": "assets/assault-bike/frame-1.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          {
+            "index": 2,
+            "path": "assets/assault-bike/frame-2.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          {
+            "index": 3,
+            "path": "assets/assault-bike/frame-3.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          }
+        ],
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      "review": "Visually checked pose and equipment in frame 1; source artwork preserved without changes."
+    },
+    {
+      "exerciseId": "lib-walking-treadmill",
+      "file": "web/artwork/treadmill-incline-walk/frame-1.svg",
+      "sha256": "b8754fe1afd7100276389437e20db09a6a79b154871e368394823a8dbdbfd456",
+      "manifestEntry": {
+        "id": "exercise-treadmill-incline-walk",
+        "slug": "treadmill-incline-walk",
+        "name": "Treadmill Incline Walk",
+        "exerciseType": "distance_duration",
+        "equipment": "Cardio",
+        "primaryMuscle": "Legs",
+        "secondaryMuscles": [
+          "Glutes",
+          "Cardio"
+        ],
+        "isStretch": false,
+        "frames": [
+          {
+            "index": 1,
+            "path": "assets/treadmill-incline-walk/frame-1.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          {
+            "index": 2,
+            "path": "assets/treadmill-incline-walk/frame-2.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          {
+            "index": 3,
+            "path": "assets/treadmill-incline-walk/frame-3.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          }
+        ],
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      "review": "Visually checked pose and equipment in frame 1; source artwork preserved without changes."
+    },
+    {
+      "exerciseId": "lib-belt-squat",
+      "file": "web/artwork/belt-squat/frame-1.svg",
+      "sha256": "46c1c894fea161810fa5b7d20b807129e1a4512baf13d68a7d6e55f3c5207abd",
+      "manifestEntry": {
+        "id": "exercise-belt-squat",
+        "slug": "belt-squat",
+        "name": "Belt Squat",
+        "exerciseType": "weight_reps",
+        "equipment": "Machine",
+        "primaryMuscle": "Quads",
+        "secondaryMuscles": [
+          "Glutes"
+        ],
+        "isStretch": false,
+        "frames": [
+          {
+            "index": 1,
+            "path": "assets/belt-squat/frame-1.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          {
+            "index": 2,
+            "path": "assets/belt-squat/frame-2.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          {
+            "index": 3,
+            "path": "assets/belt-squat/frame-3.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          }
+        ],
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      "review": "Visually checked pose and equipment in frame 1; source artwork preserved without changes."
+    },
+    {
+      "exerciseId": "lib-jump-rope",
+      "file": "web/artwork/jump-rope/frame-1.svg",
+      "sha256": "281e0e35bbbcc5279fc9e7bb21c883a6e653308f12ba2119a123583153e88790",
+      "manifestEntry": {
+        "id": "exercise-jump-rope",
+        "slug": "jump-rope",
+        "name": "Jump Rope",
+        "exerciseType": "duration",
+        "equipment": "Cardio",
+        "primaryMuscle": "Calves",
+        "secondaryMuscles": [
+          "Cardio",
+          "Shoulders"
+        ],
+        "isStretch": false,
+        "frames": [
+          {
+            "index": 1,
+            "path": "assets/jump-rope/frame-1.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          {
+            "index": 2,
+            "path": "assets/jump-rope/frame-2.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          {
+            "index": 3,
+            "path": "assets/jump-rope/frame-3.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          }
+        ],
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      "review": "Visually checked pose and equipment in frame 1; source artwork preserved without changes."
+    },
+    {
+      "exerciseId": "lib-lat-pulldown-wide-grip-cable",
+      "file": "web/artwork/wide-grip-lat-pulldown/frame-1.svg",
+      "sha256": "80eee58862fc305f357987d147cadaba12613699fffcdb22df13d4816aeba512",
+      "manifestEntry": {
+        "id": "exercise-wide-grip-lat-pulldown",
+        "slug": "wide-grip-lat-pulldown",
+        "name": "Wide-Grip Lat Pulldown",
+        "exerciseType": "weight_reps",
+        "equipment": "Cable",
+        "primaryMuscle": "Lats",
+        "secondaryMuscles": [
+          "Biceps"
+        ],
+        "isStretch": false,
+        "frames": [
+          {
+            "index": 1,
+            "path": "assets/wide-grip-lat-pulldown/frame-1.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          {
+            "index": 2,
+            "path": "assets/wide-grip-lat-pulldown/frame-2.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          {
+            "index": 3,
+            "path": "assets/wide-grip-lat-pulldown/frame-3.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          }
+        ],
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      "review": "Visually checked pose, wide grip or machine equipment; source artwork preserved without changes."
+    },
+    {
+      "exerciseId": "lib-seated-row-machine",
+      "file": "web/artwork/machine-row/frame-1.svg",
+      "sha256": "7c981719a63c592d970a468c5daf36e63815683a2e6ae276cae01808c3b9bd99",
+      "manifestEntry": {
+        "id": "exercise-machine-row",
+        "slug": "machine-row",
+        "name": "Machine Row",
+        "exerciseType": "weight_reps",
+        "equipment": "Machine",
+        "primaryMuscle": "Back",
+        "secondaryMuscles": [
+          "Biceps"
+        ],
+        "isStretch": false,
+        "frames": [
+          {
+            "index": 1,
+            "path": "assets/machine-row/frame-1.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          {
+            "index": 2,
+            "path": "assets/machine-row/frame-2.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          {
+            "index": 3,
+            "path": "assets/machine-row/frame-3.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          }
+        ],
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      "review": "Visually checked pose, wide grip or machine equipment; source artwork preserved without changes."
+    }
+  ]
+}

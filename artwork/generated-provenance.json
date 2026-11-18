@@ -1,0 +1,1240 @@
+{
+  "date": "2026-11-15",
+  "method": "Generated with OpenAI image generation, then individually visually reviewed as a single static pose and equipment reference; not verified full movement demonstrations.",
+  "files": [
+    {
+      "file": "web/artwork/generated-ab-wheel/frame-1.webp",
+      "sha256": "71c0fb55e982bd7384fd2ab2406472dbdc1edf82ef3442b943deaca832e8b17d",
+      "originalPng": {
+        "file": "web/artwork/generated-ab-wheel/frame-1.png",
+        "sha256": "ecc792159548cd68313d7b2fef4d71c451c90267dc0f5ed3fe79aba987c84c6a",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "file": "web/artwork/generated-box-squat-barbell/frame-1.webp",
+      "sha256": "713ee2e021bb1439c7cc5cbfedcac91f6a8f1a3179776d237a796f9658c75848",
+      "originalPng": {
+        "file": "web/artwork/generated-box-squat-barbell/frame-1.png",
+        "sha256": "1f31200ca781d13d5cd0317ea92376bad2996b289e8454e6c168dbc629fd6be5",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "file": "web/artwork/generated-cable-twist/frame-1.webp",
+      "sha256": "8fde10e2beac51307c11df0fed0ba5fcbf3289c872f3c50925a0e40e4ab91774",
+      "originalPng": {
+        "file": "web/artwork/generated-cable-twist/frame-1.png",
+        "sha256": "1be9d12e3ca5201c0d9a891a2402c0b28280fb77bdd24ae36ca8910dfdf73200",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "file": "web/artwork/generated-clean-barbell/frame-1.webp",
+      "sha256": "4f3bf113897ae9c52e3fae32c24d452298a1ce291d9c39cfbb3e4f2c364e54ee",
+      "originalPng": {
+        "file": "web/artwork/generated-clean-barbell/frame-1.png",
+        "sha256": "1d7c6170f99db8fdc6dadc501aefee87d012f19189ec6e3e0afa7a1ea77cfb1c",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "file": "web/artwork/generated-deficit-deadlift-barbell/frame-1.webp",
+      "sha256": "e6aa7595b63a5b2d13974489668a3638756887465d6a832c058b01256f1da7c0",
+      "originalPng": {
+        "file": "web/artwork/generated-deficit-deadlift-barbell/frame-1.png",
+        "sha256": "3591512150f69233fb48386eb7620091c925b6d7342c31a80b4c28d094ba74cd",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "file": "web/artwork/generated-lat-pulldown-single-arm/frame-1.webp",
+      "sha256": "e56d2b1fa1ab82f444f723c9df5093a628b5dfada6144f524f90820e42033e1b",
+      "originalPng": {
+        "file": "web/artwork/generated-lat-pulldown-single-arm/frame-1.png",
+        "sha256": "ed34873ea10ccdf5341572b872456d546599b4c7968d9575fd794ce63ee76858",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "file": "web/artwork/generated-one-leg-extension/frame-1.webp",
+      "sha256": "b2dc5a880df0653be0b21dc578fa49a139d12ceb4068b4bda6bb3ba3a0fa202e",
+      "originalPng": {
+        "file": "web/artwork/generated-one-leg-extension/frame-1.png",
+        "sha256": "5ab0c9a55722df197458b533ba82c6bb1312a0e7034a5204c4d20787c0b29899",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "file": "web/artwork/generated-plate-pinch-press/frame-1.webp",
+      "sha256": "9908db4b9666ede7538afb9c71243f23cb2da55b748ce5226633d338f7c1a8f6",
+      "originalPng": {
+        "file": "web/artwork/generated-plate-pinch-press/frame-1.png",
+        "sha256": "da7080c2cb5badae1d73860750269f00fd8d592038e685a818116aee5cfbc082",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "file": "web/artwork/generated-preacher-curl-barbell/frame-1.webp",
+      "sha256": "46eb167b71e91843d4f1eec0813a508a953bcadc02bf362d20c96915e30d1d14",
+      "originalPng": {
+        "file": "web/artwork/generated-preacher-curl-barbell/frame-1.png",
+        "sha256": "477c9deb5c507001e064d0d85e4b111c5c48d42f9ebfb7b6602941295399067d",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "file": "web/artwork/generated-standing-calf-raise-barbell/frame-1.webp",
+      "sha256": "67bb3894fd44b5e94cf3058b96c6c95046d1481f225ac53fb2e3dafb68181ca3",
+      "originalPng": {
+        "file": "web/artwork/generated-standing-calf-raise-barbell/frame-1.png",
+        "sha256": "c2e71d57fcff49decf60b53966a138efe63e83f58d6f41679b08f973e854b270",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "file": "web/artwork/generated-stiff-leg-deadlift-barbell/frame-1.webp",
+      "sha256": "cb76b060658028a3d1d9a14763b8c3333c80a7015cf2405e9885db9135fb35f4",
+      "originalPng": {
+        "file": "web/artwork/generated-stiff-leg-deadlift-barbell/frame-1.png",
+        "sha256": "190e6fdaa9f8ac7c8b002f886d54dbf5edf192cf8fc67cb133977da303dd49b9",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "file": "web/artwork/generated-stiff-leg-deadlift-dumbbell/frame-1.webp",
+      "sha256": "53bf5f0186f1cba120f9ff04c4703218d2150df25142ba44777166614c9d8363",
+      "originalPng": {
+        "file": "web/artwork/generated-stiff-leg-deadlift-dumbbell/frame-1.png",
+        "sha256": "ad1a4e18c4c87f7bdaa175c21ba2bc6b985e33fa3d11a02b60c2591ef9dfdffe",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "file": "web/artwork/generated-y-raise-dumbbell/frame-1.webp",
+      "sha256": "8c4b371a79e88ee1a7f24f9fe445105acd43098a15af2e3e64c01c46dbcf5caa",
+      "originalPng": {
+        "file": "web/artwork/generated-y-raise-dumbbell/frame-1.png",
+        "sha256": "e70171f2df5ef40c904b7d57a7dd51a4b69a8678f0996ac48abd7bd0980b96a6",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "file": "web/artwork/around-the-world-generated/frame-1.webp",
+      "sha256": "52b03c1de79bd104e11a459aa0aba7a80d5a651d955efd4232cc3839d794da7b",
+      "originalPng": {
+        "file": "web/artwork/around-the-world-generated/frame-1.png",
+        "sha256": "9e8f9a813f5dbfa785b229e91669d87375d80150df0aab2b1a900f10b8c30919",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "calf-raise",
+      "file": "web/artwork/generated-calf-raise/frame-1.webp",
+      "sha256": "f1d2537fb37c775cf5eeecb2c678e47f8330bab9a220dd6c1ef009c61ed046fb",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-calf-raise/frame-1.png",
+        "sha256": "03ada6310eca524e87628522485e011955e7865d9e227cabf6cacbc085b2148e",
+        "pixels": [
+          1199,
+          1312
+        ]
+      }
+    },
+    {
+      "id": "lib-bent-tricep-overhead-extension",
+      "file": "web/artwork/generated-bent-tricep-overhead-extension/frame-1.webp",
+      "sha256": "d6cd54558df771e21ec884613c6a4ab845a141c224d4f044f7909a4ec64e0c37",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-bent-tricep-overhead-extension/frame-1.png",
+        "sha256": "0bfb9cd2ff0b688bae10014f79fc7194a4e56420c01c412170e095361c200a4b",
+        "pixels": [
+          1024,
+          1536
+        ]
+      }
+    },
+    {
+      "id": "lib-chest-fly",
+      "file": "web/artwork/generated-chest-fly/frame-1.webp",
+      "sha256": "5b2804962bd4e5ee847a16601d17a2ef0b3aabc19a53a9ebe5bbc6866ca1c561",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-chest-fly/frame-1.png",
+        "sha256": "1f39d01eb3b6ecf85276c95dd46cb473f9d2aaff70c84aa824aef7a053bdeab7",
+        "pixels": [
+          1199,
+          1312
+        ]
+      }
+    },
+    {
+      "id": "lib-general-ab-exercises",
+      "file": "web/artwork/generated-general-ab-exercises/frame-1.webp",
+      "sha256": "75be3ebfd79f7125106f63b368869aa63aad03aa5a5feccfd3c60b8bd04b90e0",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-general-ab-exercises/frame-1.png",
+        "sha256": "ece0707727cf9c156ea685566eef4a352c9438a3fa05759065f8b6dd84fb556a",
+        "pixels": [
+          1774,
+          887
+        ]
+      }
+    },
+    {
+      "id": "lib-incline-chest-close-ups-dumbbell",
+      "file": "web/artwork/generated-incline-chest-close-ups-dumbbell/frame-1.webp",
+      "sha256": "a43c49fcdcf847bfb801f408f47158efa3544eed84c25ca92cb5bb4d8908b201",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-incline-chest-close-ups-dumbbell/frame-1.png",
+        "sha256": "48b26df0bd6d2742759ec31c9a8b414c3654e7f6bec3db78b9cf010527a88eec",
+        "pixels": [
+          1536,
+          1024
+        ]
+      }
+    },
+    {
+      "id": "lib-overhead-press-behind-the-neck",
+      "file": "web/artwork/generated-overhead-press-behind-the-neck/frame-1.webp",
+      "sha256": "780ef831e6d9f69d73facd8ff27d670642a694521eb471972db332a7e7183e75",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-overhead-press-behind-the-neck/frame-1.png",
+        "sha256": "a5b03604fab4eff13c250de1073681c9f44366bac489d04485b468f771b9b47a",
+        "pixels": [
+          1199,
+          1312
+        ]
+      }
+    },
+    {
+      "id": "lib-overhead-triceps-cross-extension-cable",
+      "file": "web/artwork/generated-overhead-triceps-cross-extension-cable/frame-1.webp",
+      "sha256": "c252eae439991a4c6c6333ab7a55cbd55ea1a54306b27f8d5757b755be6b5883",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-overhead-triceps-cross-extension-cable/frame-1.png",
+        "sha256": "dec1d878e6fc548f47c7fbddb9809190a4ed46b7ed1db46e1bf5643b85db300c",
+        "pixels": [
+          1199,
+          1312
+        ]
+      }
+    },
+    {
+      "id": "lib-pullover",
+      "file": "web/artwork/generated-pullover/frame-1.webp",
+      "sha256": "32778cc5a154518442ff5d46639024fa797a030ad6468cfb4faeb05da921d678",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-pullover/frame-1.png",
+        "sha256": "75df16f36a96ef2043f80588c3d862e327793b0422553005013fd401780cd3d8",
+        "pixels": [
+          1774,
+          887
+        ]
+      }
+    },
+    {
+      "id": "lib-reverse-incline-fly",
+      "file": "web/artwork/generated-reverse-incline-fly/frame-1.webp",
+      "sha256": "8812e4ce3c02434a81b48d6e5615a3f83ca5054b1801c36127d32f8d4bf8fb58",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-reverse-incline-fly/frame-1.png",
+        "sha256": "93d40286b3927f83746175796d1bac442fb313a8ff36542c2ebff511b00745eb",
+        "pixels": [
+          1536,
+          1024
+        ]
+      }
+    },
+    {
+      "id": "lib-stretching",
+      "file": "web/artwork/generated-stretching/frame-1.webp",
+      "sha256": "c45628e4b808c0334ce983afe972487576235c1f39a284b749f33b25b258715b",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-stretching/frame-1.png",
+        "sha256": "8b49a08761dbea97526c95741ead65983ad869f787ea2d644335aad42982dc3c",
+        "pixels": [
+          1217,
+          1293
+        ]
+      }
+    },
+    {
+      "id": "lib-tricep-extension-cable",
+      "file": "web/artwork/generated-tricep-extension-cable/frame-1.webp",
+      "sha256": "075442ef41f33bd0da9ca57958a8182d6781649fd88cb8960a61e6a1c93ad7d8",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-tricep-extension-cable/frame-1.png",
+        "sha256": "58de841a0f127dc2e7ef5c1cb668ab4774a2a5f93a60ec30c636474101b19657",
+        "pixels": [
+          1312,
+          1199
+        ]
+      }
+    },
+    {
+      "id": "lib-tricep-extension-free",
+      "file": "web/artwork/generated-tricep-extension-free/frame-1.webp",
+      "sha256": "bc0995960bc1cb26652afda8f925b821958e8957f00f1efd1290847a7ddd86f9",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-tricep-extension-free/frame-1.png",
+        "sha256": "55b6200312a11bb42cc1234782ca60a6edbd85bf65aab0a969a7bf90f732cec9",
+        "pixels": [
+          1024,
+          1536
+        ]
+      }
+    },
+    {
+      "id": "lib-tricep-extension-overhead",
+      "file": "web/artwork/generated-tricep-extension-overhead/frame-1.webp",
+      "sha256": "00af4b0cf98a1602927c84671ecd8a047c6b86100d6cf9901e0a34ac6d562ee6",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-tricep-extension-overhead/frame-1.png",
+        "sha256": "af6c36cbe763a3b01edc4bbb86847adb929a44ed10f43235a8e346d62cf2254b",
+        "pixels": [
+          1024,
+          1536
+        ]
+      }
+    },
+    {
+      "id": "lib-triceps-extension",
+      "file": "web/artwork/generated-triceps-extension/frame-1.webp",
+      "sha256": "419faf35be4a78620353a22a60e5ca6d1d766ab708d9831273183b09876f57ae",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-triceps-extension/frame-1.png",
+        "sha256": "9401970bc92c219f3083749a113edaa7ec9839de18ccaca809ef325f72396415",
+        "pixels": [
+          1024,
+          1536
+        ]
+      }
+    },
+    {
+      "id": "lib-triceps-extension-barbell",
+      "file": "web/artwork/generated-triceps-extension-barbell/frame-1.webp",
+      "sha256": "feb70b24e0306589a3bdc96a0b69a456e14ba2524fd6b6156615bdb436836ef6",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-triceps-extension-barbell/frame-1.png",
+        "sha256": "5bac90d3b2ddcc7280f3fcc6e2d2c05c1d6ece7311bf23b4e1f987637013a409",
+        "pixels": [
+          1024,
+          1536
+        ]
+      }
+    },
+    {
+      "id": "lib-triceps-extension-cable",
+      "file": "web/artwork/generated-triceps-extension-cable/frame-1.webp",
+      "sha256": "c23da27fe3094f4bfdb1e5560f77451c184988e322ae0cc3ae736599a3d3252e",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-triceps-extension-cable/frame-1.png",
+        "sha256": "9a4aad68d220d741656c2feb16dec439fe2b10c1126d0ec172f9543221f3c8f7",
+        "pixels": [
+          1024,
+          1536
+        ]
+      }
+    },
+    {
+      "id": "lib-triceps-extension-dumbbell",
+      "file": "web/artwork/generated-triceps-extension-dumbbell/frame-1.webp",
+      "sha256": "23bec269b96b89a47a5a2497976dcfeddb5175fa1ab25b9a2af3a60a51cb4ee5",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-triceps-extension-dumbbell/frame-1.png",
+        "sha256": "93c0763b4f7f82aa3edbe2bcf52f0395e652e05c18c04174935eb522523cbb0c",
+        "pixels": [
+          1024,
+          1536
+        ]
+      }
+    },
+    {
+      "id": "lib-wrist-curl",
+      "file": "web/artwork/generated-wrist-curl/frame-1.webp",
+      "sha256": "8d3740b65105903be18670efea81e3949fb29a9c900bd85e5b0fd1ded6d6a534",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-wrist-curl/frame-1.png",
+        "sha256": "857da7ee81feae9ac89f95912ff45f9ae32528b0e149a39211f71653b8f36ffe",
+        "pixels": [
+          1220,
+          1289
+        ]
+      }
+    },
+    {
+      "id": "goblet-squat",
+      "file": "web/artwork/generated-goblet-squat/frame-1.webp",
+      "sha256": "516b3607756d5782f86e302802e4554480c809b2f29665b0f9bb9d6f14bc901b",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-goblet-squat/frame-1.png",
+        "sha256": "b5e2b4140625d2761c67ee6809e7acf5dab7a4e5a43a844e841f96ef3f631890",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-bulgarian-split-squat",
+      "file": "web/artwork/generated-bulgarian-split-squat/frame-1.webp",
+      "sha256": "394cb934c7f7328453ff1720ac5d1982eb17ac18c6ba4b4825538f000d699472",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-bulgarian-split-squat/frame-1.png",
+        "sha256": "f51883569409073c22af87434101185155c6e6749307e6b4c5d9dabe5be011f5",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-deep-squat",
+      "file": "web/artwork/generated-deep-squat/frame-1.webp",
+      "sha256": "15b6bc362b7017c242987546644584306db2155062119ac5a3d651e64bc30faa",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-deep-squat/frame-1.png",
+        "sha256": "e4e79015072f3d4564d23f6ca648aca38685f3f026f74d76dc1f4975e72b2391",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-flat-knee-raise",
+      "file": "web/artwork/generated-flat-knee-raise/frame-1.webp",
+      "sha256": "d2f7a973c9dde18e60249f6c687b2ca2a7262f43560ed47219f04b0259d7696a",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-flat-knee-raise/frame-1.png",
+        "sha256": "c658172112e68a8fc9f9ed45ef3e033183c8f8a0d525fa591f2753bc80d9ce71",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-hammer-curl-band",
+      "file": "web/artwork/generated-hammer-curl-band/frame-1.webp",
+      "sha256": "617df214490ebf248cc7ec89665201caa5f0db7f80866fbf760173a44329e24f",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-hammer-curl-band/frame-1.png",
+        "sha256": "79f5fc497d7b138a60db9c3c8ec0fca51cec1e5c78be326976a159563c9e6dfa",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-handstands",
+      "file": "web/artwork/generated-handstands/frame-1.webp",
+      "sha256": "36e47f36551c20c863ba6522f4129e161dc34c2767d5fe467f19fdcc5da21612",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-handstands/frame-1.png",
+        "sha256": "d07646c4cdd19ffec22ad2926d83823443e601a6ce56fc46e6be97690314e221",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-hip-thrust-bodyweight",
+      "file": "web/artwork/generated-hip-thrust-bodyweight/frame-1.webp",
+      "sha256": "655cc30ea6583a42906f3afc86cbda4e5e54aceb23b3b4800c1101bca96d73f1",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-hip-thrust-bodyweight/frame-1.png",
+        "sha256": "5ce1cbe865cbdf826b29410d5d0048b61f8f2694ab9998b7b534aa46a06c12a7",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-incline-row-dumbbell",
+      "file": "web/artwork/generated-incline-row-dumbbell/frame-1.webp",
+      "sha256": "1ee4e002e4444fa468c94dc1ac3da4cc9e3b8b16f7d1c203cb328b1eed06cf48",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-incline-row-dumbbell/frame-1.png",
+        "sha256": "5bd6071dc967099dd9dbffc7d19187e41c9ee5cdb7d4fb890744edbb6e3ff199",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-one-hand-pushup",
+      "file": "web/artwork/generated-one-hand-pushup/frame-1.webp",
+      "sha256": "126c46f5409413e0dd73084a1f60c5e48353a57bead4db9e54d4be91037cbe1f",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-one-hand-pushup/frame-1.png",
+        "sha256": "929b834e5becb32affb314c0d381e95522f8e1f310b4018dbb2befe3e46673a9",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-one-sided-leg-press",
+      "file": "web/artwork/generated-one-sided-leg-press/frame-1.webp",
+      "sha256": "ccd3e73bffe3cf8c692c816296f9942dcda06f343083f4a9d83bfe51ea4a701d",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-one-sided-leg-press/frame-1.png",
+        "sha256": "86ad287b6b039978c60090e0c4c7ee3bb1ca9b6c58eed70bb8a766b5d858d915",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-overhead-press-smith-machine",
+      "file": "web/artwork/generated-overhead-press-smith-machine/frame-1.webp",
+      "sha256": "354cd516c7ceb39a8ab0657096b114afd17852984d46437e758f64b93c248132",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-overhead-press-smith-machine/frame-1.png",
+        "sha256": "cb30d0839a7d38fc540164b56d5b00ce2801e3c8b6624ec70466ec6d62e5a5e5",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-plate-squat",
+      "file": "web/artwork/generated-plate-squat/frame-1.webp",
+      "sha256": "a74a0d4c2fc97220b11046db0e75bfe30c119cb57a095d5c0c80b50fdb046c76",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-plate-squat/frame-1.png",
+        "sha256": "cc17a6e0a857674b1ac75c43fcb58692fb0202eeabcaa74d140e5cc94fe3c6f2",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-pseudo-planche-push-ups",
+      "file": "web/artwork/generated-pseudo-planche-push-ups/frame-1.webp",
+      "sha256": "b55736e626fa3bdb2ca7d0d1216a10ce4fa8ff6e9b627aedb5a006cd526925d1",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-pseudo-planche-push-ups/frame-1.png",
+        "sha256": "895b4a7ed80c261ce9d5e6495e64d2e5ac2ab74c1f6d09c10538099c15ba99ec",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-standing-calf-raise-dumbbell",
+      "file": "web/artwork/generated-standing-calf-raise-dumbbell/frame-1.webp",
+      "sha256": "4035ef9f9f15bfd4876a4e50a4f4391c5940feb328e668b6253f69158ad817c2",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-standing-calf-raise-dumbbell/frame-1.png",
+        "sha256": "3e84159e0cf5427fdb10508d1bc59ba5d8d8c7c817c72b24b936cfbccb75a316",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-strict-military-press-barbell",
+      "file": "web/artwork/generated-strict-military-press-barbell/frame-1.webp",
+      "sha256": "e3c1e14c14f108ad203b9a33cf625a9db27f03798c0de41b319069fef2d0bdad",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-strict-military-press-barbell/frame-1.png",
+        "sha256": "4f524896d5eb77f3953f928848d205107236e7ee07f46dbcad1995e8846d33f7",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-sumo-deadlift-high-pull-barbell",
+      "file": "web/artwork/generated-sumo-deadlift-high-pull-barbell/frame-1.webp",
+      "sha256": "c0639d0030da5a31f39fdff0a49ac40a88f68e51814707b977625dec05649fbc",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-sumo-deadlift-high-pull-barbell/frame-1.png",
+        "sha256": "d0b8f5193a2d4157fae02f4fe310130c4f97edf8bbcdd0f830700797198f5ba1",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-dumbbell-bench-press-with-neutral-grip",
+      "file": "web/artwork/generated-dumbbell-bench-press-with-neutral-grip/frame-1.webp",
+      "sha256": "f51338cd6db0eca6239e54176c0bfb08e9bf4ebf2d7d10e9ead5ba55f157c52d",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-dumbbell-bench-press-with-neutral-grip/frame-1.png",
+        "sha256": "e2a1bd82db9c1b0b56272b212027d41d858795aa8c0e90902cfd0943fd767302",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-zottman-curls",
+      "file": "web/artwork/generated-zottman-curls/frame-1.webp",
+      "sha256": "a4f7cc32f86daee83cf5928e343e0c310f0107b4e48244af83b34ccad2b1cf66",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-zottman-curls/frame-1.png",
+        "sha256": "94ca6f17a1d2703d8173d9f5ac4bd45daa2eb9df477884e108107670e8819d1d",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-front-squat-dumbbell",
+      "file": "web/artwork/generated-front-squat-dumbbell/frame-1.webp",
+      "sha256": "13fa24a69fb9d00276736f28ab313b99ecb84a8305551af9e2ed3f8234a0acd3",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-front-squat-dumbbell/frame-1.png",
+        "sha256": "ecc0dd8d47fab20ab27dd4fc87c4c976e8e2f05495ee87e18275507a0e65f779",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-kneeling-high-pulley-row",
+      "file": "web/artwork/generated-kneeling-high-pulley-row/frame-1.webp",
+      "sha256": "59dbe144218ffa35de48ba08b12b37286951f94e0d6c395d3db64ff5d48d3bf0",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-kneeling-high-pulley-row/frame-1.png",
+        "sha256": "2e4045fb79340f86524f94c79d0aa2e8f2245583fa1702df2efaa269ee917571",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-elevated-back-lunge",
+      "file": "web/artwork/generated-elevated-back-lunge/frame-1.webp",
+      "sha256": "d7b31fc9b59966cbda8b44ee3f147e13555b4037f9ebd165545e588520511fa4",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-elevated-back-lunge/frame-1.png",
+        "sha256": "290227753eedd6df6c66c9bb63e4e55e7253716890e585ac61a0213ff81410aa",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-goblet-squat-dumbbell",
+      "file": "web/artwork/generated-goblet-squat-dumbbell/frame-1.webp",
+      "sha256": "db9e5a7af2a1b2c229b3ac17c6c86a9cd57348c9afa1a80a756d87b8464408fd",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-goblet-squat-dumbbell/frame-1.png",
+        "sha256": "11d36b2c5415f60310d9660e930d8111e1a89fd98829f355fff0724645db153b",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-hip-thrust-machine",
+      "file": "web/artwork/generated-hip-thrust-machine/frame-1.webp",
+      "sha256": "187d849b265979bbed561e3fff6b8418fcf432ab5d636d66fc64f6cfd59d400a",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-hip-thrust-machine/frame-1.png",
+        "sha256": "303a087baf46950ea72859f66fcc5eef58a7f0f0d538f025d6c7885fa776e54f",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-chest-dip-assisted",
+      "file": "web/artwork/generated-chest-dip-assisted/frame-1.webp",
+      "sha256": "ef7c4b1c2e97dc44a1016847cec752454b8a4e27e27b1133ae030f39625129b7",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-chest-dip-assisted/frame-1.png",
+        "sha256": "9855e9d18f57d416a6ca8f49230af427f3f968c2437a635ac29846118b498388",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-chest-dip-weighted",
+      "file": "web/artwork/generated-chest-dip-weighted/frame-1.webp",
+      "sha256": "955c9ce4669bb0fd447ab2f1153d072ecf61cb292f2b79695e82abf819cee7c8",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-chest-dip-weighted/frame-1.png",
+        "sha256": "2f00da9aa1da5145bc891b1690614367ad4767780f9d150053187db67ce1ca58",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-svend-press",
+      "file": "web/artwork/generated-svend-press/frame-1.webp",
+      "sha256": "593858094f99093b67d38569529707f94338ca1aa640ce30299f91f89df4aa47",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-svend-press/frame-1.png",
+        "sha256": "147e0acc3a5dba38a446195222a940245a5d8e7904a87081ac7d8736b802feb4",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-bicep-curl-machine",
+      "file": "web/artwork/generated-bicep-curl-machine/frame-1.webp",
+      "sha256": "3482addbb5e8be02192d5878f48b387f28f3c37540a6662a74560bee5c0b88b7",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-bicep-curl-machine/frame-1.png",
+        "sha256": "b28f0c4b4e9a8083a6f5f5db91b249054fc08df9c460cd2f1963136f41c9ff42",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-triceps-dip-assisted",
+      "file": "web/artwork/generated-triceps-dip-assisted/frame-1.webp",
+      "sha256": "1607f57e926199581662fb73f6c3047743d387f41bf843b7665760c609fca8db",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-triceps-dip-assisted/frame-1.png",
+        "sha256": "d6e60866c24293048d2d950923cda4ae9099602593a423e8f3dd757bf8947209",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-clean-and-jerk-barbell",
+      "file": "web/artwork/generated-clean-and-jerk-barbell/frame-1.webp",
+      "sha256": "34bb044dc46fa0763138077dcc40fd3e01d35a36762c34c544b550fedf4e7230",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-clean-and-jerk-barbell/frame-1.png",
+        "sha256": "e740a22e08188b91989e4b24d5ac66c1f75852d06971c8fe2bbcaec4c140d746",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-muscle-up",
+      "file": "web/artwork/generated-muscle-up/frame-1.webp",
+      "sha256": "2f397d17341852ee3e6bc8c32dc43aa55184ecec247f9784bce37d5fef1d4ab9",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-muscle-up/frame-1.png",
+        "sha256": "6b5032c160137508b2db7847b52b178afde56c5b6ae6a0d1d2e8ca16ec9c025b",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-snatch-barbell",
+      "file": "web/artwork/generated-snatch-barbell/frame-1.webp",
+      "sha256": "5cab7426ea9c63538e4a630d1c76d4537e7791791a631f7ddfa8dfa1dfa76ad4",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-snatch-barbell/frame-1.png",
+        "sha256": "35220cb8fe7058e8c9c2443df62dc7b86a0558048bf513ce22f2e9974b3e9850",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-thruster-barbell",
+      "file": "web/artwork/generated-thruster-barbell/frame-1.webp",
+      "sha256": "87b7fb917362094aa10ed6097c68e2a80a1cea2a6f69104bd9afd905a946abab",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-thruster-barbell/frame-1.png",
+        "sha256": "c66995ab3ac5857308c954e2afce96a4f4be3ad4acb607ce7f52b40c4cc0e4a3",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-turkish-get-up",
+      "file": "web/artwork/generated-turkish-get-up/frame-1.webp",
+      "sha256": "97d0b44f2ec680f453c960bdbabb20c4a6eb7e8136b79ae9b83d02bf8aac57ac",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-turkish-get-up/frame-1.png",
+        "sha256": "99803e9302a482b0de2e484c285c345fa65b83146d9939bc526bfc73029c4f5b",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-reverse-wrist-curl",
+      "file": "web/artwork/generated-reverse-wrist-curl/frame-1.webp",
+      "sha256": "e9fff80a3d9aac5d3d14c4d649102e525f678f9d942177acf42f493a119b55c9",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-reverse-wrist-curl/frame-1.png",
+        "sha256": "c020335ef6ce0fc136da9b2c66054f2a0384b3277bb1fabdd562765d7787dc20",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-seated-calf-raise-plate-loaded",
+      "file": "web/artwork/generated-seated-calf-raise-plate-loaded/frame-1.webp",
+      "sha256": "4a703f23d21b7258028804be8aedc8597363b985c8dd7b72217b430bc69dad0f",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-seated-calf-raise-plate-loaded/frame-1.png",
+        "sha256": "4ddadcdf5992343ce8047d638f128bf94d365380b38b8cc291fd94789a628c06",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-cable-crossover-up",
+      "file": "web/artwork/generated-cable-crossover-up/frame-1.webp",
+      "sha256": "fb45983ee0281bf42300a802e746b0ff776811fed18361e7829618e7da884130",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-cable-crossover-up/frame-1.png",
+        "sha256": "7b8077a477e7b18a573c6dc7802f8ade591948c1aba93f3c89836a2e42802f20",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-crunch-machine",
+      "file": "web/artwork/generated-crunch-machine/frame-1.webp",
+      "sha256": "fdcd46e243c10b35653f9fe17ff832bfc0e830e7659902a898a713a631af1ec5",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-crunch-machine/frame-1.png",
+        "sha256": "65bbbef294cb511cafb5937847c7006b39e9f8c60a75fbb1060def4d1eaae229",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-decline-bench-press-smith-machine",
+      "file": "web/artwork/generated-decline-bench-press-smith-machine/frame-1.webp",
+      "sha256": "e7351e50c685e5bb5a55db56d38f12ae64a0dd3b5ec7e5c9a46878a1226dd046",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-decline-bench-press-smith-machine/frame-1.png",
+        "sha256": "a34d40d3edee88bfae792a90675edcba3a010e988d85c2b69396571e4ff7b39d",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-incline-cable-crossover",
+      "file": "web/artwork/generated-incline-cable-crossover/frame-1.webp",
+      "sha256": "7f3dd95ef9793e4dd217a7a30bdb2da9c10172ba4ed8bd5bee9701c61b08c201",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-incline-cable-crossover/frame-1.png",
+        "sha256": "64a6d55be9cd194d5600f87f15f4389e11ed5d81332bcfef8321ddee0b2fd58a",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-iso-lateral-chest-press-machine",
+      "file": "web/artwork/generated-iso-lateral-chest-press-machine/frame-1.webp",
+      "sha256": "003a0e1f9f04cf53eeba28039b7aa2821c86305e7b0929498ec0e67e47e0edcd",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-iso-lateral-chest-press-machine/frame-1.png",
+        "sha256": "3dfabf16ade40843fccfb8c96d52eb2bf9452acbe0f1065583e2a7f63a44b923",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-iso-lateral-row-machine",
+      "file": "web/artwork/generated-iso-lateral-row-machine/frame-1.webp",
+      "sha256": "95aa3e202bb79b7342731d5209a92e66d12894c9f9b12e167e7741e6d5391f01",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-iso-lateral-row-machine/frame-1.png",
+        "sha256": "2994fa7f89d88d9362e3cdc7e70105d439d32b4d335d7cbff42f3b5caca8f660",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-lat-pulldown-machine",
+      "file": "web/artwork/generated-lat-pulldown-machine/frame-1.webp",
+      "sha256": "b1b4d746418c8b9c31ee68db61c609282ea764348b0cdf140237e4dc6fbbdc08",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-lat-pulldown-machine/frame-1.png",
+        "sha256": "37c6dec168d6ac108885b2318140c28c357a6fcf582e7ef2a44f14ccd7a4d2bb",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-one-leg-calf-raise-smith-machine",
+      "file": "web/artwork/generated-one-leg-calf-raise-smith-machine/frame-1.webp",
+      "sha256": "f3b544008554f60b60fb514f219263ae11b5dd0cd93cc9e4a046718d46ec7724",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-one-leg-calf-raise-smith-machine/frame-1.png",
+        "sha256": "322186ac0805dc34233e62773a4d5dcf45b7e24206605ef9657654875470e83c",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-overhead-press-behind-the-neck-smith-machine",
+      "file": "web/artwork/generated-overhead-press-behind-the-neck-smith-machine/frame-1.webp",
+      "sha256": "8f26477b92204d1531dbde8689bbdbb351332eba792cdadc514f56513b8079b7",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-overhead-press-behind-the-neck-smith-machine/frame-1.png",
+        "sha256": "0c89d75b5959f7975f21c740a93a84d75013407ae6daf1407cab788a28fc2a26",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-seated-leg-press-machine",
+      "file": "web/artwork/generated-seated-leg-press-machine/frame-1.webp",
+      "sha256": "ae1068fa066ea1f042a83414ff733efe37ad9a12cf5610c2b39b14325c0e5efe",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-seated-leg-press-machine/frame-1.png",
+        "sha256": "33268fabf24b614c257c462ad3462db13a9cd33c1b0e19d421cfe85e811b95c9",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-seated-palms-up-wrist-curl-dumbbell",
+      "file": "web/artwork/generated-seated-palms-up-wrist-curl-dumbbell/frame-1.webp",
+      "sha256": "4a3ef811e93b22ab2ba80c95ca749c6182f70411f00094f1450f877bc62aa9c8",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-seated-palms-up-wrist-curl-dumbbell/frame-1.png",
+        "sha256": "5caf606bf9e3bfdd6e9acb37562ef16d5d3e5c533aeade45d5a7ced887ae5d15",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-seated-wide-grip-row-cable",
+      "file": "web/artwork/generated-seated-wide-grip-row-cable/frame-1.webp",
+      "sha256": "da12c80e1164fb3366ab84887092c34b7b80c382f9eccd6e9f662f900b67b05a",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-seated-wide-grip-row-cable/frame-1.png",
+        "sha256": "cc32f192d2810b4381d8c89bcca4b4972a583a129b9a2d0373211d511f9335ec",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-sit-up",
+      "file": "web/artwork/generated-sit-up/frame-1.webp",
+      "sha256": "36106f64f9ab5150f0624ebe833becee561d5e15969e5d2bf400ed3775ab21dd",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-sit-up/frame-1.png",
+        "sha256": "86af198f95265105f9ab8dad1098e3b9c75466a6ee42b59fbbbc34382d563c55",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-sitting-calf-raise-smith-machine",
+      "file": "web/artwork/generated-sitting-calf-raise-smith-machine/frame-1.webp",
+      "sha256": "a6a22c58ae0c551fe16dba520004318c220012e68dae136150502819d9dcc5b2",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-sitting-calf-raise-smith-machine/frame-1.png",
+        "sha256": "cf3215f8ee717de533326c05f0d2ff83e07b4f584149645775799aba9e964fda",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-standing-calf-raise-smith-machine",
+      "file": "web/artwork/generated-standing-calf-raise-smith-machine/frame-1.webp",
+      "sha256": "24bf0b4ccf2ec7ab316c8783909dcce0f193e026aa6d2a6c2e56cb86c53c6850",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-standing-calf-raise-smith-machine/frame-1.png",
+        "sha256": "d87d161652edfaccc710cae4759ca8cccc9a281dc518f1a11bc892a3d1f732d7",
+        "pixels": [
+          1254,
+          1254
+        ]
+      }
+    },
+    {
+      "id": "lib-reverse-grip-bicep-curl-cable",
+      "file": "web/artwork/generated-reverse-grip-bicep-curl-cable/frame-1.webp",
+      "sha256": "7db0c8dfce0d2aac98ce51e546dae27990744c951e981b752b79c8268efc3c2d",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-reverse-grip-bicep-curl-cable/frame-1.png",
+        "sha256": "ccc7a3c09e9fb764a04231d8c642b576123a4ec200f589a620e0f4010d5d5450",
+        "pixels": [
+          1199,
+          1312
+        ]
+      }
+    },
+    {
+      "id": "lib-wide-chest-press",
+      "file": "web/artwork/generated-wide-chest-press/frame-1.webp",
+      "sha256": "d4c1b1be499fb68fae49dad8b6c7e78f3028f6e53fb7d3b0634ebc15a97be0b1",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-wide-chest-press/frame-1.png",
+        "sha256": "ed6390aa599344e58ea0583b05e14f54f663cea52661374e12407e0ec373e04a",
+        "pixels": [
+          1208,
+          1302
+        ]
+      }
+    },
+    {
+      "id": "lib-power-clean-barbell",
+      "file": "web/artwork/generated-power-clean-barbell/frame-1.webp",
+      "sha256": "073a70aa7848d53cd5ebc8ad463af98477d39bc45010123728094fd57b0f4d6c",
+      "origin": "OpenAI generated",
+      "review": "Static depiction visually reviewed for movement and equipment; not a substitute for a full tutorial.",
+      "originalPng": {
+        "file": "web/artwork/generated-power-clean-barbell/frame-1.png",
+        "sha256": "155762d5e17c9382e68bec20fc334218a2cce32db163c1f72eec462a1b310cce",
+        "pixels": [
+          1219,
+          1290
+        ]
+      }
+    }
+  ],
+  "delivery": "Each reviewed PNG was resized to fit 768 px and saved as WebP (quality 80) on 2026-11-16 to shrink the app. originalPng records the reviewed source file, which is kept outside web/ in artwork-originals/."
+}

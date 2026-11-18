@@ -1,0 +1,77 @@
+@font-face{font-family:"Forge Completion Display";src:url("fonts/Anton-Regular.ttf") format("truetype");font-display:swap}
+@font-face{font-family:"Forge Completion Data";src:url("fonts/BarlowCondensed-Bold.ttf") format("truetype");font-display:swap}
+/* Finish screen: the real win first, then the biggest jump, every exercise against last time,
+   and the weekly tide. Colors come from the active theme's share palette (--celebrate-*). */
+.modal-scrim.completion-scrim{background:var(--celebrate-bg);backdrop-filter:none;align-items:stretch}
+.modal.completion-screen{position:relative;height:100dvh;max-height:100dvh;width:100%;max-width:520px;border-radius:0;overflow:hidden;background:radial-gradient(420px 320px at 88% 0%,var(--celebrate-glow),transparent 72%),var(--celebrate-bg);color:var(--celebrate-text);animation:none;box-shadow:none;padding-bottom:0}
+.completion-screen .completion-body.fin{position:relative;z-index:1;width:100%;flex:1;display:flex;flex-direction:column;padding:12px 22px 22px;overflow-y:auto;scrollbar-width:thin;color-scheme:dark;font-family:"Forge Completion Data",sans-serif}
+.fin-tide{position:absolute;inset:auto 0 0 0;height:min(520px,55dvh);pointer-events:none;overflow:hidden}
+.fin-wave{display:block;fill:var(--celebrate-accent)}
+.fin-tide .fin-wave{position:absolute;bottom:0;left:0;width:200%;height:100%}
+.fin-wave-back{opacity:.07}.fin-wave-front{opacity:.08;height:92%!important}
+.fin-top{display:flex;align-items:center;justify-content:space-between;min-height:44px}
+.fin-brand{display:flex;align-items:center;gap:8px;font-size:22px;letter-spacing:.5px}.fin-brand i{color:var(--celebrate-accent);font-style:normal}
+.fin-mark{width:30px;height:30px}
+.completion-screen .completion-close{position:static;color:var(--celebrate-muted)}
+.fin-kicker{align-self:flex-start;margin:14px 0 0;padding:5px 12px;border:1.5px solid var(--celebrate-accent);border-radius:999px;color:var(--celebrate-accent);font-size:15px;letter-spacing:2.5px}
+.completion-screen .fin-headline{margin:12px 0 0;font-family:"Forge Completion Display",Impact,sans-serif;font-weight:400;font-style:normal;font-size:clamp(52px,18vw,76px);line-height:.92;letter-spacing:.5px;text-align:left;color:var(--celebrate-text);text-wrap:balance;overflow-wrap:anywhere}
+.fin-headline span{display:block;color:var(--celebrate-accent)}
+.completion-screen .fin-sub{margin:8px 0 0;max-width:none;text-align:left;font-style:normal;font-size:19px;letter-spacing:.5px;color:var(--celebrate-muted)}
+.fin-badges{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0 0;padding:0;list-style:none}
+.fin-badges li{padding:5px 11px;border-radius:10px;background:color-mix(in srgb,var(--celebrate-accent) 16%,transparent);color:var(--celebrate-text);font-size:15px;letter-spacing:1.5px}
+.completion-screen .completion-save-status{margin:10px 0 0;text-align:left;font-family:system-ui,sans-serif;font-size:13px;color:var(--celebrate-muted)}
+.completion-screen.is-unsaved .completion-save-status{color:var(--celebrate-text);font-weight:600}
+.fin-spot{position:relative;display:flex;flex-direction:column;margin-top:18px;padding:16px 18px 18px;border-radius:22px;background:var(--celebrate-text);color:var(--celebrate-on);box-shadow:7px 7px 0 var(--celebrate-accent)}
+.fin-spot-label{font-size:14px;letter-spacing:2.5px;opacity:.72}
+.fin-spot-name{margin-top:4px;font-family:"Forge Completion Display",sans-serif;font-weight:400;font-size:30px;line-height:1.05;text-transform:uppercase;padding-right:52px}
+.fin-spot-value{font-family:"Forge Completion Display",sans-serif;font-size:clamp(36px,12vw,50px);line-height:1.05;text-transform:uppercase}
+.fin-spot-note{align-self:flex-start;margin-top:10px;padding:5px 12px;border-radius:999px;background:var(--celebrate-on);color:var(--celebrate-accent);font-size:16px;letter-spacing:.5px}
+.fin-star{position:absolute;right:16px;top:14px;width:44px;height:44px;fill:var(--celebrate-star,var(--celebrate-accent));stroke:var(--celebrate-on);stroke-width:1.2}
+.fin-section{display:flex;align-items:center;gap:10px;margin:24px 0 2px;color:var(--celebrate-accent);font-size:15px;letter-spacing:3px;font-weight:700}
+.fin-section::after{content:"";flex:1;height:1.5px;background:var(--celebrate-line)}
+.fin-rows{margin:0;padding:0;list-style:none}
+.fin-row{display:grid;grid-template-columns:minmax(0,1fr) auto auto;align-items:center;gap:10px;padding:10px 0;border-bottom:1.5px solid var(--celebrate-line);font-size:18px}
+.fin-row-name{display:flex;align-items:center;gap:6px;min-width:0;overflow-wrap:anywhere}
+.fin-row-star{flex:none;width:16px;height:16px;fill:var(--celebrate-accent)}
+.fin-row-value{white-space:nowrap}
+.fin-row-delta{min-width:64px;text-align:right;white-space:nowrap;font-size:15px;letter-spacing:.5px;color:var(--celebrate-muted)}
+.fin-row.is-up .fin-row-delta,.fin-row.is-new .fin-row-delta{color:var(--celebrate-accent)}
+.fin-stats{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin-top:16px}
+.fin-stat{display:flex;flex-direction:column;padding:8px 10px;border:1.5px solid var(--celebrate-line);border-radius:14px;background:rgba(255,255,255,.05)}
+.fin-stat strong{font-family:"Forge Completion Display",sans-serif;font-weight:400;font-size:28px;line-height:1.15}
+.fin-stat span{font-size:13px;letter-spacing:2px;text-transform:uppercase;color:var(--celebrate-muted)}
+.completion-screen .completion-records{margin-top:12px;font-family:system-ui,sans-serif;font-size:15px}
+.completion-records summary{min-height:44px;display:flex;align-items:center;cursor:pointer;color:var(--celebrate-accent);font-weight:600}
+.fin-week{margin-top:22px;padding:14px 16px;border-radius:20px;background:var(--celebrate-edge);border:1.5px solid var(--celebrate-line)}
+.fin-week-label{display:block;font-size:14px;letter-spacing:3px;color:var(--celebrate-muted)}
+.fin-week-count{display:block;margin-top:2px;font-family:"Forge Completion Display",sans-serif;font-weight:400;font-size:32px}
+.fin-accent{color:var(--celebrate-accent)}
+.fin-meter{position:relative;height:40px;margin-top:10px;border-radius:12px;background:rgba(255,255,255,.06);overflow:hidden}
+.fin-meter-fill{position:absolute;inset:0 auto 0 0;width:var(--fill);overflow:hidden}
+.fin-meter-wave{position:absolute;inset:0 auto 0 0;width:680px;height:40px}
+.fin-week-note{margin:8px 0 0;font-size:17px}
+.fin-actions{display:flex;flex-direction:column;gap:10px;margin-top:22px}
+.modal.completion-screen .fin-actions .fin-share{display:flex;align-items:center;justify-content:flex-start;gap:12px;min-height:64px;border-radius:18px;background:var(--celebrate-accent);color:var(--celebrate-on);font-family:"Forge Completion Data",sans-serif;font-size:22px;text-align:left;border:0;box-shadow:none}
+.fin-share small{display:block;font-size:14px;letter-spacing:1.5px;opacity:.75}
+.fin-thumb{position:relative;flex:none;width:40px;height:50px;border-radius:7px;border:2px solid var(--celebrate-on);background:var(--celebrate-bg);overflow:hidden}
+.fin-thumb::after{content:"";position:absolute;inset:auto 0 0 0;height:11px;background:var(--celebrate-accent);border-top:2px solid var(--celebrate-on)}
+.modal.completion-screen .fin-actions .completion-done{min-height:52px;border-radius:18px;background:var(--celebrate-edge);color:var(--celebrate-text);border:1.5px solid var(--celebrate-line);font-family:"Forge Completion Data",sans-serif;font-size:20px}
+/* Motion, first showing only: the tide rises, the win pops, the rest arrives in order. */
+@keyframes fin-rise{from{transform:translateY(100%)}to{transform:none}}
+@keyframes fin-drift{to{transform:translateX(-50%)}}
+@keyframes fin-pop{from{opacity:0;transform:scale(.86)}to{opacity:1;transform:none}}
+@keyframes fin-in{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}
+@keyframes fin-slide{from{opacity:0;transform:translateX(18px)}to{opacity:1;transform:none}}
+@keyframes fin-fill{from{width:0}}
+@keyframes fin-star{from{transform:scale(0) rotate(-40deg)}60%{transform:scale(1.2)}to{transform:none}}
+.fin-tide .fin-wave-front{animation:fin-drift 9s linear infinite}
+.fin-tide .fin-wave-back{animation:fin-drift 14s linear infinite reverse}
+.fin-meter-wave{animation:fin-drift 6s linear infinite}
+.fin-animate .fin-tide{animation:fin-rise 1.4s cubic-bezier(.2,.8,.2,1) both}
+.fin-animate .fin-headline{transform-origin:left bottom;animation:fin-pop .7s cubic-bezier(.3,1.5,.5,1) .15s both}
+.fin-animate .fin-spot{animation:fin-in .6s ease-out .55s both}
+.fin-animate .fin-star{animation:fin-star .6s ease-out 1.1s both}
+.fin-animate .fin-row{animation:fin-slide .45s ease-out both;animation-delay:calc(.9s + var(--i) * .08s)}
+.fin-animate .fin-meter-fill{animation:fin-fill 1.2s cubic-bezier(.2,.8,.2,1) 1.2s both}
+@media (prefers-reduced-motion:reduce){.completion-screen *,.completion-screen .fin-tide{animation:none!important}}
+@media (max-width:360px){.completion-screen .completion-body.fin{padding-inline:16px}.fin-row{grid-template-columns:minmax(0,1fr) auto;row-gap:2px}.fin-row-delta{grid-column:2}}

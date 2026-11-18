@@ -1,0 +1,675 @@
+{
+  "repository": "https://github.com/everkinetic/data",
+  "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "reviewDate": "2026-11-10",
+  "images": [
+    {
+      "slug": "everkinetic-0004",
+      "exerciseIds": [
+        "lib-seated-overhead-press-barbell"
+      ],
+      "path": "artwork/everkinetic/0004-tension.png",
+      "sha256": "234b805f43452c59c9aec2e7ebd0f798d446944d3350f71aaf7c6eb738e19e72",
+      "width": 843,
+      "height": 1025,
+      "sourceId": "0004",
+      "sourceTitle": "Seated Military Press",
+      "sourcePath": "dist/png/0004-tension.png",
+      "sourceUrl": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/png/0004-tension.png",
+      "creator": "Greg Priday / Everkinetic",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "None. Original PNG bytes bundled unchanged. Forge selects one source pose and scales it for display.",
+      "review": "Seated barbell overhead press in front of head."
+    },
+    {
+      "slug": "everkinetic-0016",
+      "exerciseIds": [
+        "lib-upright-row-dumbbell"
+      ],
+      "path": "artwork/everkinetic/0016-tension.png",
+      "sha256": "d679ce6ba92c07c14856a08db80165765203a95a091b3ea8a2457e49518cfd4c",
+      "width": 499,
+      "height": 968,
+      "sourceId": "0016",
+      "sourceTitle": "Upright Row: Dumbbell",
+      "sourcePath": "dist/png/0016-tension.png",
+      "sourceUrl": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/png/0016-tension.png",
+      "creator": "Greg Priday / Everkinetic",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "None. Original PNG bytes bundled unchanged. Forge selects one source pose and scales it for display.",
+      "review": "Standing upright row with two dumbbells."
+    },
+    {
+      "slug": "everkinetic-0026",
+      "exerciseIds": [
+        "lib-bent-over-row-underhand-barbell"
+      ],
+      "path": "artwork/everkinetic/0026-tension.png",
+      "sha256": "90439fa476a31406b34e744c07ff729435467c376cf36f40c52308c926c42673",
+      "width": 842,
+      "height": 878,
+      "sourceId": "0026",
+      "sourceTitle": "Reverse Grips Bent Over Barbell Rows",
+      "sourcePath": "dist/png/0026-tension.png",
+      "sourceUrl": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/png/0026-tension.png",
+      "creator": "Greg Priday / Everkinetic",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "None. Original PNG bytes bundled unchanged. Forge selects one source pose and scales it for display.",
+      "review": "Bent-over row with an underhand barbell grip."
+    },
+    {
+      "slug": "everkinetic-0048",
+      "exerciseIds": [
+        "lib-cable-crossover",
+        "lib-cable-crossover-down"
+      ],
+      "path": "artwork/everkinetic/0048-tension.png",
+      "sha256": "7513c4b8254a5c3dcbf5410b20451a713d3b390fa1653d5f1687f058294a857e",
+      "width": 989,
+      "height": 1046,
+      "sourceId": "0048",
+      "sourceTitle": "Cable Crossover",
+      "sourcePath": "dist/png/0048-tension.png",
+      "sourceUrl": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/png/0048-tension.png",
+      "creator": "Greg Priday / Everkinetic",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "None. Original PNG bytes bundled unchanged. Forge selects one source pose and scales it for display.",
+      "review": "Standing cable crossover, high-to-low line of pull."
+    },
+    {
+      "slug": "everkinetic-0053",
+      "exerciseIds": [
+        "lib-decline-chest-fly-dumbbell"
+      ],
+      "path": "artwork/everkinetic/0053-relaxation.png",
+      "sha256": "5dbd8f61afc69f1e79c12096aa5f8d644d4eef4ccd16938715d1075bff3337ef",
+      "width": 926,
+      "height": 559,
+      "sourceId": "0053",
+      "sourceTitle": "Decline Dumbbell Fly's",
+      "sourcePath": "dist/png/0053-relaxation.png",
+      "sourceUrl": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/png/0053-relaxation.png",
+      "creator": "Greg Priday / Everkinetic",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "None. Original PNG bytes bundled unchanged. Forge selects one source pose and scales it for display.",
+      "review": "Dumbbell fly on a decline bench; open-arm pose shows the fly rather than a press."
+    },
+    {
+      "slug": "everkinetic-0062",
+      "exerciseIds": [
+        "lib-incline-chest-fly-dumbbell"
+      ],
+      "path": "artwork/everkinetic/0062-relaxation.png",
+      "sha256": "02c8bb66947785d9d080a3889184f88f172e685d40efe6f1a58623a8b10cbe28",
+      "width": 888,
+      "height": 879,
+      "sourceId": "0062",
+      "sourceTitle": "Incline Dumbbell Fly's",
+      "sourcePath": "dist/png/0062-relaxation.png",
+      "sourceUrl": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/png/0062-relaxation.png",
+      "creator": "Greg Priday / Everkinetic",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "None. Original PNG bytes bundled unchanged. Forge selects one source pose and scales it for display.",
+      "review": "Dumbbell fly on an incline bench; open-arm pose distinguishes the fly."
+    },
+    {
+      "slug": "everkinetic-0079",
+      "exerciseIds": [
+        "lib-pullover-dumbbell"
+      ],
+      "path": "artwork/everkinetic/0079-relaxation.png",
+      "sha256": "6e629465590a9e67fca12501d57a2329378e24e9b6ec7078768002245d47e269",
+      "width": 851,
+      "height": 615,
+      "sourceId": "0079",
+      "sourceTitle": "Straight Arm Dumbbell Pullover",
+      "sourcePath": "dist/png/0079-relaxation.png",
+      "sourceUrl": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/png/0079-relaxation.png",
+      "creator": "Greg Priday / Everkinetic",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "None. Original PNG bytes bundled unchanged. Forge selects one source pose and scales it for display.",
+      "review": "Dumbbell pullover on a flat bench; overhead pose shows the movement."
+    },
+    {
+      "slug": "everkinetic-0081",
+      "exerciseIds": [
+        "lib-incline-bench-press-smith-machine"
+      ],
+      "path": "artwork/everkinetic/0081-relaxation.png",
+      "sha256": "8626ce846790f4d3de9064a9510961fbd5e0bca946de57d077c06a92651f7f6a",
+      "width": 845,
+      "height": 1100,
+      "sourceId": "0081",
+      "sourceTitle": "Bench Press: Smith Machine (Incline)",
+      "sourcePath": "dist/png/0081-relaxation.png",
+      "sourceUrl": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/png/0081-relaxation.png",
+      "creator": "Greg Priday / Everkinetic",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "None. Original PNG bytes bundled unchanged. Forge selects one source pose and scales it for display.",
+      "review": "Incline bench press with visible Smith machine rails."
+    },
+    {
+      "slug": "everkinetic-0082",
+      "exerciseIds": [
+        "lib-bench-press-wide-grip-barbell"
+      ],
+      "path": "artwork/everkinetic/0082-relaxation.png",
+      "sha256": "1d4d63537ff0bb43570b2956acf642e792bd144b864dd4231f412a3242f678b0",
+      "width": 920,
+      "height": 663,
+      "sourceId": "0082",
+      "sourceTitle": "Bench Press: Barbell (Wide Grip)",
+      "sourcePath": "dist/png/0082-relaxation.png",
+      "sourceUrl": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/png/0082-relaxation.png",
+      "creator": "Greg Priday / Everkinetic",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "None. Original PNG bytes bundled unchanged. Forge selects one source pose and scales it for display.",
+      "review": "Flat barbell bench press with a clearly wide grip."
+    },
+    {
+      "slug": "everkinetic-0093",
+      "exerciseIds": [
+        "lib-lat-pulldown-underhand-cable"
+      ],
+      "path": "artwork/everkinetic/0093-tension.png",
+      "sha256": "90a906f216e37dd46862984bb1c5ab9822447bebee5e0f9d3596739a4fbfdbfb",
+      "width": 470,
+      "height": 1100,
+      "sourceId": "0093",
+      "sourceTitle": "Pull Down: Underhand",
+      "sourcePath": "dist/png/0093-tension.png",
+      "sourceUrl": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/png/0093-tension.png",
+      "creator": "Greg Priday / Everkinetic",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "None. Original PNG bytes bundled unchanged. Forge selects one source pose and scales it for display.",
+      "review": "Seated cable pulldown with close underhand grip, not the ambiguous 0095 image."
+    },
+    {
+      "slug": "everkinetic-0114",
+      "exerciseIds": [
+        "lib-lunge-barbell"
+      ],
+      "path": "artwork/everkinetic/0114-tension.png",
+      "sha256": "cec3a9fccd51c848ef97fc73e715d8a594afbe8b255100ca4780c868fee01f0a",
+      "width": 908,
+      "height": 799,
+      "sourceId": "0114",
+      "sourceTitle": "Lunges: Barbell",
+      "sourcePath": "dist/png/0114-tension.png",
+      "sourceUrl": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/png/0114-tension.png",
+      "creator": "Greg Priday / Everkinetic",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "None. Original PNG bytes bundled unchanged. Forge selects one source pose and scales it for display.",
+      "review": "Forward lunge with barbell across upper back; both legs visible."
+    },
+    {
+      "slug": "everkinetic-0120",
+      "exerciseIds": [
+        "lib-leg-curl-standing"
+      ],
+      "path": "artwork/everkinetic/0120-tension.png",
+      "sha256": "a9c8eec16d9413334006cffee789d670c9802d389da80edef1c7d58a065e5301",
+      "width": 813,
+      "height": 1019,
+      "sourceId": "0120",
+      "sourceTitle": "Standing Leg Curls",
+      "sourcePath": "dist/png/0120-tension.png",
+      "sourceUrl": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/png/0120-tension.png",
+      "creator": "Greg Priday / Everkinetic",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "None. Original PNG bytes bundled unchanged. Forge selects one source pose and scales it for display.",
+      "review": "Standing single-leg curl with machine pad and support."
+    },
+    {
+      "slug": "everkinetic-0123",
+      "exerciseIds": [
+        "lib-hack-squat",
+        "lib-hack-squat-machine"
+      ],
+      "path": "artwork/everkinetic/0123-relaxation.png",
+      "sha256": "43e03b6155eb77dc2fe269942dcb396b9b30ac2557ac4cc9f393015302afbecd",
+      "width": 904,
+      "height": 613,
+      "sourceId": "0123",
+      "sourceTitle": "Hack Squat: Machine",
+      "sourcePath": "dist/png/0123-relaxation.png",
+      "sourceUrl": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/png/0123-relaxation.png",
+      "creator": "Greg Priday / Everkinetic",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "None. Original PNG bytes bundled unchanged. Forge selects one source pose and scales it for display.",
+      "review": "Plate-loaded hack squat machine with back/shoulder support and bent knees."
+    },
+    {
+      "slug": "everkinetic-0188",
+      "exerciseIds": [
+        "lib-narrow-grip-push-up"
+      ],
+      "path": "artwork/everkinetic/0188-tension.png",
+      "sha256": "920f57fc5c46a81b278f55b82cd5d1c39e6a31ff0339f8148326008f075abbba",
+      "width": 945,
+      "height": 483,
+      "sourceId": "0188",
+      "sourceTitle": "Close Triceps Pushup",
+      "sourcePath": "dist/png/0188-tension.png",
+      "sourceUrl": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/png/0188-tension.png",
+      "creator": "Greg Priday / Everkinetic",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "None. Original PNG bytes bundled unchanged. Forge selects one source pose and scales it for display.",
+      "review": "Bodyweight push-up with hands close together under the chest."
+    },
+    {
+      "slug": "everkinetic-0211",
+      "exerciseIds": [
+        "lib-bicep-curl-barbell"
+      ],
+      "path": "artwork/everkinetic/0211-tension.png",
+      "sha256": "c5b0a5a515735e4d0dbeecc31fbb21dc6565eddc61165bee47c5aeadaf2a703d",
+      "width": 1039,
+      "height": 968,
+      "sourceId": "0211",
+      "sourceTitle": "Biceps Curl: Barbell",
+      "sourcePath": "dist/png/0211-tension.png",
+      "sourceUrl": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/png/0211-tension.png",
+      "creator": "Greg Priday / Everkinetic",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "None. Original PNG bytes bundled unchanged. Forge selects one source pose and scales it for display.",
+      "review": "Standing biceps curl with straight barbell, distinct from the EZ bar image."
+    },
+    {
+      "slug": "everkinetic-0216",
+      "exerciseIds": [
+        "lib-hammer-curl-cable"
+      ],
+      "path": "artwork/everkinetic/0216-tension.png",
+      "sha256": "f77c8f1b62e885e3bb4edafba68043c0d12327439f49d45e7af63d6e2f0b9877",
+      "width": 382,
+      "height": 968,
+      "sourceId": "0216",
+      "sourceTitle": "Hammer Curls with Rope and Cable",
+      "sourcePath": "dist/png/0216-tension.png",
+      "sourceUrl": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/png/0216-tension.png",
+      "creator": "Greg Priday / Everkinetic",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "None. Original PNG bytes bundled unchanged. Forge selects one source pose and scales it for display.",
+      "review": "Cable rope curl with neutral hammer grip; source prose grip wording is not reused."
+    },
+    {
+      "slug": "everkinetic-0225",
+      "exerciseIds": [
+        "lib-spider-curl-dumbbell"
+      ],
+      "path": "artwork/everkinetic/0225-tension.png",
+      "sha256": "90d300681632eb235121147a1ea2ab42d05d3e02f2cf651423029c231414ef0d",
+      "width": 750,
+      "height": 755,
+      "sourceId": "0225",
+      "sourceTitle": "Prone Incline Biceps Curl with Dumbbell",
+      "sourcePath": "dist/png/0225-tension.png",
+      "sourceUrl": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/png/0225-tension.png",
+      "creator": "Greg Priday / Everkinetic",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "None. Original PNG bytes bundled unchanged. Forge selects one source pose and scales it for display.",
+      "review": "Dumbbell spider curl with torso supported face-down on incline bench and upper arms hanging."
+    },
+    {
+      "slug": "everkinetic-0226",
+      "exerciseIds": [
+        "lib-bicep-curl-ez-bar"
+      ],
+      "path": "artwork/everkinetic/0226-tension.png",
+      "sha256": "1b1b5efdb05eb6cb56636f716420247320dcac69f6d1d66db4be8f68f692bfb6",
+      "width": 915,
+      "height": 968,
+      "sourceId": "0226",
+      "sourceTitle": "EZ Bar Curl with Barbell",
+      "sourcePath": "dist/png/0226-tension.png",
+      "sourceUrl": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/png/0226-tension.png",
+      "creator": "Greg Priday / Everkinetic",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "None. Original PNG bytes bundled unchanged. Forge selects one source pose and scales it for display.",
+      "review": "Standing curl with visible EZ-shaped bar."
+    },
+    {
+      "slug": "everkinetic-0237",
+      "exerciseIds": [
+        "lib-preacher-curl-dumbbell"
+      ],
+      "path": "artwork/everkinetic/0237-tension.png",
+      "sha256": "4718ac7bd4645f75df278ed39d1e51c7bbf31fca01b553218c6456a93cf30f70",
+      "width": 620,
+      "height": 1006,
+      "sourceId": "0237",
+      "sourceTitle": "Preacher Curl: Dumbbell (One Arm)",
+      "sourcePath": "dist/png/0237-tension.png",
+      "sourceUrl": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/png/0237-tension.png",
+      "creator": "Greg Priday / Everkinetic",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "None. Original PNG bytes bundled unchanged. Forge selects one source pose and scales it for display.",
+      "review": "Dumbbell preacher curl with arm supported on preacher pad."
+    },
+    {
+      "slug": "everkinetic-0247",
+      "exerciseIds": [
+        "lib-standing-one-arm-cable-curl"
+      ],
+      "path": "artwork/everkinetic/0247-tension.png",
+      "sha256": "cfe49c493ac630bf3f9d3ba797729f88becf3311f961a10fde97804b6e3084cf",
+      "width": 600,
+      "height": 969,
+      "sourceId": "0247",
+      "sourceTitle": "Standing One Arm Bicep Curl with Cable",
+      "sourcePath": "dist/png/0247-tension.png",
+      "sourceUrl": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/png/0247-tension.png",
+      "creator": "Greg Priday / Everkinetic",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "None. Original PNG bytes bundled unchanged. Forge selects one source pose and scales it for display.",
+      "review": "Standing single-arm biceps curl using a low cable."
+    },
+    {
+      "slug": "everkinetic-0257",
+      "exerciseIds": [
+        "lib-reverse-curl-dumbbell"
+      ],
+      "path": "artwork/everkinetic/0257-tension.png",
+      "sha256": "ddff9bee03a545ed395f9ba7af36b7c1a2e562b47eea259f0ee11d9fb8724243",
+      "width": 464,
+      "height": 968,
+      "sourceId": "0257",
+      "sourceTitle": "Biceps Curl: Dumbbell (Reverse)",
+      "sourcePath": "dist/png/0257-tension.png",
+      "sourceUrl": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/png/0257-tension.png",
+      "creator": "Greg Priday / Everkinetic",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "None. Original PNG bytes bundled unchanged. Forge selects one source pose and scales it for display.",
+      "review": "Standing dumbbell curl with pronated reverse grip."
+    },
+    {
+      "slug": "everkinetic-0273",
+      "exerciseIds": [
+        "lib-calf-press-on-leg-press"
+      ],
+      "path": "artwork/everkinetic/0273-tension.png",
+      "sha256": "20842bdf79721742e78d8f04b0297bc1282138585acdaad8526312415b81eb07",
+      "width": 1075,
+      "height": 732,
+      "sourceId": "0273",
+      "sourceTitle": "Calves Press on Leg Machine",
+      "sourcePath": "dist/png/0273-tension.png",
+      "sourceUrl": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/png/0273-tension.png",
+      "creator": "Greg Priday / Everkinetic",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "None. Original PNG bytes bundled unchanged. Forge selects one source pose and scales it for display.",
+      "review": "Calf press on angled leg press with forefeet on the platform and extended knees."
+    },
+    {
+      "slug": "everkinetic-0007-original-front-raise",
+      "exerciseIds": [
+        "lib-front-raise-barbell"
+      ],
+      "path": "artwork/everkinetic/0007-original-front-raise.png",
+      "sha256": "baa2dc5c1b0127b738306e3b27bebc90527437584a6d52b5d267c44ed72b1c6f",
+      "width": 1033,
+      "height": 1456,
+      "sourceId": "0007",
+      "sourceTitle": "Front Barbell Raises",
+      "sourcePath": "src/images-ai/0007-F.ai.png",
+      "sourceUrl": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-ai/0007-F.ai.png",
+      "sourceGitBlobSha1": "2d0fd18dd62060b4b98f3e4028b4360ac871c7cf",
+      "creator": "Greg Priday / Everkinetic",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "None. Original PNG bytes bundled unchanged. Forge selects one source pose and scales it for display.",
+      "review": "Both original source poses show a straight barbell held in front of the body and raised with straight arms; equipment and movement match the barbell front raise.",
+      "addedIn": "0.6.0",
+      "referenceKind": "exercise"
+    },
+    {
+      "slug": "everkinetic-0084-original-incline-press",
+      "exerciseIds": [
+        "lib-incline-chest-press-machine"
+      ],
+      "path": "artwork/everkinetic/0084-original-incline-press.png",
+      "sha256": "8b1097fe3ad3e1c02ea236f16abe8af8a4e722c017f8af3aec8deb077d96e764",
+      "width": 2423,
+      "height": 2955,
+      "sourceId": "0084",
+      "sourceTitle": "Incline Chest Press",
+      "sourcePath": "src/images-ai/0084-S.ai.png",
+      "sourceUrl": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-ai/0084-S.ai.png",
+      "sourceGitBlobSha1": "d9426cdc14c0518eb9d72a517535bec55ab186af",
+      "creator": "Greg Priday / Everkinetic",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "None. Original PNG bytes bundled unchanged. Forge selects one source pose and scales it for display.",
+      "review": "Both original poses show a reclined back support and linked machine press handles traveling upward and forward from the upper chest. This is the incline chest press machine, not a free-weight or Smith press.",
+      "addedIn": "0.6.0",
+      "referenceKind": "exercise"
+    },
+    {
+      "slug": "everkinetic-0112-original-cable-kickback",
+      "exerciseIds": [
+        "lib-cable-kickback",
+        "lib-one-legged-cable-kickback"
+      ],
+      "path": "artwork/everkinetic/0112-original-cable-kickback.png",
+      "sha256": "195d4d3f349027c088be243ab543d9599f8c57cbc29b159ef1e328883a657847",
+      "width": 1878,
+      "height": 2774,
+      "sourceId": "0112",
+      "sourceTitle": "One Legged Cable Kickback",
+      "sourcePath": "src/images-ai/0112-F.ai.png",
+      "sourceUrl": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-ai/0112-F.ai.png",
+      "sourceGitBlobSha1": "b0c438fe565609f9b927745c127b67396eb1af07",
+      "creator": "Greg Priday / Everkinetic",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "None. Original PNG bytes bundled unchanged. Forge selects one source pose and scales it for display.",
+      "review": "The full-frame original shows one ankle cuff with a cable line attached, the opposite foot supporting the body, and the cuffed leg extended back. The catalog Cable Kickback is explicitly a glute cable exercise, so these two IDs are the same reviewed movement. Unlike the earlier cropped distribution image, the original makes the cuff and cable visible.",
+      "addedIn": "0.6.0",
+      "referenceKind": "exercise"
+    },
+    {
+      "slug": "everkinetic-0115-original-dumbbell-lunge",
+      "exerciseIds": [
+        "lib-lunge-dumbbell"
+      ],
+      "path": "artwork/everkinetic/0115-original-dumbbell-lunge.png",
+      "sha256": "b95eba9b76b70da8b2caa36f69e92b3a09a998a9da628bcda7ed2edeb012f238",
+      "width": 2007,
+      "height": 2303,
+      "sourceId": "0115",
+      "sourceTitle": "Lunges: Dumbbell",
+      "sourcePath": "src/images-ai/0115-S.ai.png",
+      "sourceUrl": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-ai/0115-S.ai.png",
+      "sourceGitBlobSha1": "4792680b6f9484637070e84095cf847216ee3be6",
+      "creator": "Greg Priday / Everkinetic",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "None. Original PNG bytes bundled unchanged. Forge selects one source pose and scales it for display.",
+      "review": "Both complete original poses were inspected. Two dumbbells hang at the sides, front foot stays planted and rear knee lowers into the lunge. Both feet and lower legs are visible; this resolves the earlier cropped dist/png rejection without changing the artwork.",
+      "addedIn": "0.6.0",
+      "referenceKind": "exercise"
+    },
+    {
+      "slug": "everkinetic-0130-original-dumbbell-squat",
+      "exerciseIds": [
+        "lib-squat-dumbbell"
+      ],
+      "path": "artwork/everkinetic/0130-original-dumbbell-squat.png",
+      "sha256": "2ce21cd3da94d5cd555db45e426605a867721eecf6cdbe1421aa2e8983821cb2",
+      "width": 1135,
+      "height": 1899,
+      "sourceId": "0130",
+      "sourceTitle": "Squats: Dumbbells",
+      "sourcePath": "src/images-ai/0130-S new.ai.png",
+      "sourceUrl": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-ai/0130-S%20new.ai.png",
+      "sourceGitBlobSha1": "a34d03f81dac5b21afeb92eb615c4c85f5316223",
+      "creator": "Greg Priday / Everkinetic",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "None. Original PNG bytes bundled unchanged. Forge selects one source pose and scales it for display.",
+      "review": "Both complete original poses were inspected. The squat uses two dumbbells held at the sides, with feet and bent knees fully visible. This resolves the earlier cropped dist/png rejection. It is not used for goblet, front or barbell squats.",
+      "addedIn": "0.6.0",
+      "referenceKind": "exercise"
+    },
+    {
+      "slug": "everkinetic-activity-boxing",
+      "exerciseIds": [
+        "lib-boxing"
+      ],
+      "path": "artwork/everkinetic/activity-boxing.png",
+      "sha256": "6807f6546fcc63a60199f040468a789c7ba221f70f1a92cb10a00316a05763b3",
+      "width": 2239,
+      "height": 1844,
+      "sourceId": "boxing",
+      "sourceTitle": "Boxing",
+      "sourcePath": "src/images-ai/boxing.ai.png",
+      "sourceUrl": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-ai/boxing.ai.png",
+      "sourceGitBlobSha1": "3031bbc23912390a3914650e4ac627da0cc2e196",
+      "creator": "Greg Priday / Everkinetic",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "None. Original PNG bytes bundled unchanged. Forge selects one source pose and scales it for display.",
+      "review": "Activity illustration shows two gloved boxers with protective headgear facing one another. It identifies boxing only; it is not a punch-by-punch technique tutorial.",
+      "addedIn": "0.6.0",
+      "referenceKind": "activity"
+    },
+    {
+      "slug": "everkinetic-activity-cycling",
+      "exerciseIds": [
+        "lib-cycling"
+      ],
+      "path": "artwork/everkinetic/activity-cycling.png",
+      "sha256": "a635d14f3408ec818197bdb817ef20c4e5a3f7a30a1f929e1754f4151c77d767",
+      "width": 2371,
+      "height": 2086,
+      "sourceId": "road-bike",
+      "sourceTitle": "Road cycling",
+      "sourcePath": "src/images-ai/road-bike.ai.png",
+      "sourceUrl": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-ai/road-bike.ai.png",
+      "sourceGitBlobSha1": "12ec31aa48eb3ef5542f7437e6ba289954820d2e",
+      "creator": "Greg Priday / Everkinetic",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "None. Original PNG bytes bundled unchanged. Forge selects one source pose and scales it for display.",
+      "review": "Activity illustration shows a rider on a road bicycle with two wheels, not an indoor exercise bike. Used only for the generic outdoor cycling entry.",
+      "addedIn": "0.6.0",
+      "referenceKind": "activity"
+    },
+    {
+      "slug": "everkinetic-activity-stationary-cycling",
+      "exerciseIds": [
+        "lib-cycling-stationary"
+      ],
+      "path": "artwork/everkinetic/activity-stationary-cycling.png",
+      "sha256": "ba4ea9eb25683180a23f4a913fa855e1d98ad23b9ac32658460437dd82e26199",
+      "width": 1987,
+      "height": 2648,
+      "sourceId": "stationary-bike",
+      "sourceTitle": "Stationary cycling",
+      "sourcePath": "src/images-ai/stationary-bike.ai.png",
+      "sourceUrl": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-ai/stationary-bike.ai.png",
+      "sourceGitBlobSha1": "241a4ea8d501e2b699667cb702dd051479f1a2ba",
+      "creator": "Greg Priday / Everkinetic",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "None. Original PNG bytes bundled unchanged. Forge selects one source pose and scales it for display.",
+      "review": "Activity illustration shows a rider on a stationary exercise bicycle with a fixed base and front console. Not reused for outdoor cycling.",
+      "addedIn": "0.6.0",
+      "referenceKind": "activity"
+    },
+    {
+      "slug": "everkinetic-activity-outdoor-running",
+      "exerciseIds": [
+        "lib-running"
+      ],
+      "path": "artwork/everkinetic/activity-outdoor-running.png",
+      "sha256": "1a2c28cad5d621b09554661c4ed6c1f007f537b3a1e802b038f34e7ecaf9d91f",
+      "width": 1050,
+      "height": 2385,
+      "sourceId": "running",
+      "sourceTitle": "Outdoor running",
+      "sourcePath": "src/images-ai/running.ai.png",
+      "sourceUrl": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-ai/running.ai.png",
+      "sourceGitBlobSha1": "494c2596d0590eb8e1cd16aa8b556e59233e0ae4",
+      "creator": "Greg Priday / Everkinetic",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "None. Original PNG bytes bundled unchanged. Forge selects one source pose and scales it for display.",
+      "review": "Activity illustration shows an outdoor runner and ground line with no treadmill. Kept separate from the existing treadmill artwork.",
+      "addedIn": "0.6.0",
+      "referenceKind": "activity"
+    },
+    {
+      "slug": "everkinetic-activity-swimming",
+      "exerciseIds": [
+        "lib-swimming"
+      ],
+      "path": "artwork/everkinetic/activity-swimming.png",
+      "sha256": "f42f8575890e39267fb103f5894267afceb206b2efeaca67594787ae0fd06b13",
+      "width": 1057,
+      "height": 2684,
+      "sourceId": "swimming",
+      "sourceTitle": "Swimming",
+      "sourcePath": "src/images-ai/swimming.ai.png",
+      "sourceUrl": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-ai/swimming.ai.png",
+      "sourceGitBlobSha1": "a1f81a62fe3d84d90aa7ae603e0635ac48c92312",
+      "creator": "Greg Priday / Everkinetic",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "None. Original PNG bytes bundled unchanged. Forge selects one source pose and scales it for display.",
+      "review": "Activity illustration depicts a swimmer extending one arm through the water. Used only for the generic swimming activity, not any separately named stroke.",
+      "addedIn": "0.6.0",
+      "referenceKind": "activity"
+    },
+    {
+      "slug": "everkinetic-activity-walking",
+      "exerciseIds": [
+        "lib-walking"
+      ],
+      "path": "artwork/everkinetic/activity-walking.png",
+      "sha256": "eccf9b22565fd5d93a9dd1b91e2ab1558fbdae3571a8b40c2523840d18d13b01",
+      "width": 1561,
+      "height": 2361,
+      "sourceId": "walking",
+      "sourceTitle": "Walking",
+      "sourcePath": "src/images-ai/walking.ai.png",
+      "sourceUrl": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/src/images-ai/walking.ai.png",
+      "sourceGitBlobSha1": "a5a39a7086b34ddcb07d9c7a18e4ea79f3953d1a",
+      "creator": "Greg Priday / Everkinetic",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "None. Original PNG bytes bundled unchanged. Forge selects one source pose and scales it for display.",
+      "review": "Activity illustration shows a walking stride with a forward heel and straight supporting legs. Source is explicitly walking; not reused for running.",
+      "addedIn": "0.6.0",
+      "referenceKind": "activity"
+    }
+  ],
+  "licenseSourceUrl": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/LICENSE.md",
+  "licenseGitBlobSha1": "ad64daa378af6fc1f54845d0deb61cd66f3fea2b",
+  "originalExportNote": "The upstream src/images-ai filenames are historical Adobe Illustrator PNG exports. These existing repository files were copied unchanged; no artwork was generated."
+}

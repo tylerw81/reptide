@@ -1,0 +1,477 @@
+{
+  "repository": "https://github.com/bryllim/workout-guide",
+  "revision": "aac599224bb9780305239607ef98540b7e0ce389",
+  "license": "CC BY-SA 4.0",
+  "items": [
+    {
+      "exerciseId": "lib-single-leg-romanian-deadlift-dumbbell",
+      "file": "web/artwork/single-leg-romanian-deadlift/frame-1.svg",
+      "sha256": "3c5d0ec26feabfd5c0d51fcaead652ed6d5ceb42d838bd88e788c52f08d15e6a",
+      "manifestEntry": {
+        "id": "exercise-single-leg-romanian-deadlift",
+        "slug": "single-leg-romanian-deadlift",
+        "name": "Single-Leg Romanian Deadlift",
+        "exerciseType": "weight_reps",
+        "equipment": "Dumbbell",
+        "primaryMuscle": "Hamstrings",
+        "secondaryMuscles": [
+          "Glutes",
+          "Core"
+        ],
+        "isStretch": false,
+        "frames": [
+          {
+            "index": 1,
+            "path": "assets/single-leg-romanian-deadlift/frame-1.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          {
+            "index": 2,
+            "path": "assets/single-leg-romanian-deadlift/frame-2.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          {
+            "index": 3,
+            "path": "assets/single-leg-romanian-deadlift/frame-3.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          }
+        ],
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      "review": "First frame visually reviewed; matching movement and equipment. Copied unchanged."
+    },
+    {
+      "exerciseId": "lib-romanian-deadlift-smith-machine",
+      "file": "web/artwork/smith-machine-romanian-deadlift/frame-1.svg",
+      "sha256": "d640b8e059dd2273431892cf23995761014bf43fb719c8101fe310f65a0157ad",
+      "manifestEntry": {
+        "id": "exercise-smith-machine-romanian-deadlift",
+        "slug": "smith-machine-romanian-deadlift",
+        "name": "Smith Machine Romanian Deadlift",
+        "exerciseType": "weight_reps",
+        "equipment": "Machine",
+        "primaryMuscle": "Hamstrings",
+        "secondaryMuscles": [
+          "Glutes",
+          "Lower Back"
+        ],
+        "isStretch": false,
+        "frames": [
+          {
+            "index": 1,
+            "path": "assets/smith-machine-romanian-deadlift/frame-1.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          {
+            "index": 2,
+            "path": "assets/smith-machine-romanian-deadlift/frame-2.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          {
+            "index": 3,
+            "path": "assets/smith-machine-romanian-deadlift/frame-3.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          }
+        ],
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      "review": "First frame visually reviewed; matching movement and equipment. Copied unchanged."
+    },
+    {
+      "exerciseId": "lib-romanian-deadlift-kettlebell",
+      "file": "web/artwork/kettlebell-romanian-deadlift/frame-1.svg",
+      "sha256": "10fde0c2d16f9aab7a7b4304488b01e09ebb89de26727b3cf4e61b374ef31e14",
+      "manifestEntry": {
+        "id": "exercise-kettlebell-romanian-deadlift",
+        "slug": "kettlebell-romanian-deadlift",
+        "name": "Kettlebell Romanian Deadlift",
+        "exerciseType": "weight_reps",
+        "equipment": "Kettlebell",
+        "primaryMuscle": "Hamstrings",
+        "secondaryMuscles": [
+          "Glutes",
+          "Lower Back"
+        ],
+        "isStretch": false,
+        "frames": [
+          {
+            "index": 1,
+            "path": "assets/kettlebell-romanian-deadlift/frame-1.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          {
+            "index": 2,
+            "path": "assets/kettlebell-romanian-deadlift/frame-2.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          {
+            "index": 3,
+            "path": "assets/kettlebell-romanian-deadlift/frame-3.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          }
+        ],
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      "review": "First frame visually reviewed; matching movement and equipment. Copied unchanged."
+    },
+    {
+      "exerciseId": "lib-walking-lunge-dumbbell",
+      "file": "web/artwork/walking-lunge/frame-1.svg",
+      "sha256": "f8824b193196979f7742db392146255abab276c22063e812b3e6db333088e018",
+      "manifestEntry": {
+        "id": "exercise-walking-lunge",
+        "slug": "walking-lunge",
+        "name": "Walking Lunge",
+        "exerciseType": "weight_reps",
+        "equipment": "Dumbbell",
+        "primaryMuscle": "Quads",
+        "secondaryMuscles": [
+          "Glutes",
+          "Hamstrings"
+        ],
+        "isStretch": false,
+        "frames": [
+          {
+            "index": 1,
+            "path": "assets/walking-lunge/frame-1.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+              "source": {
+                "name": "Everkinetic",
+                "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0121-tension.svg",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "changes": "Rasterized on a transparent 512 \u00d7 512 canvas, recolored for monochrome display, and vector-traced."
+              }
+            }
+          },
+          {
+            "index": 2,
+            "path": "assets/walking-lunge/frame-2.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          {
+            "index": 3,
+            "path": "assets/walking-lunge/frame-3.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          }
+        ],
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "source": {
+            "name": "Everkinetic",
+            "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0121-tension.svg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "changes": "Rasterized on a transparent 512 \u00d7 512 canvas, recolored for monochrome display, and vector-traced."
+          }
+        }
+      },
+      "review": "First frame visually reviewed; matching movement and equipment. Copied unchanged."
+    },
+    {
+      "exerciseId": "lib-deadlift-trap-bar",
+      "file": "web/artwork/trap-bar-deadlift/frame-1.svg",
+      "sha256": "939dc7a0b84665edd0bce43dab1b0dc292699a57341188312abcc50bf04e5557",
+      "manifestEntry": {
+        "id": "exercise-trap-bar-deadlift",
+        "slug": "trap-bar-deadlift",
+        "name": "Trap Bar Deadlift",
+        "exerciseType": "weight_reps",
+        "equipment": "Barbell",
+        "primaryMuscle": "Posterior Chain",
+        "secondaryMuscles": [
+          "Quads",
+          "Grip"
+        ],
+        "isStretch": false,
+        "frames": [
+          {
+            "index": 1,
+            "path": "assets/trap-bar-deadlift/frame-1.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          {
+            "index": 2,
+            "path": "assets/trap-bar-deadlift/frame-2.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          {
+            "index": 3,
+            "path": "assets/trap-bar-deadlift/frame-3.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          }
+        ],
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      "review": "First frame visually reviewed; matching movement and equipment. Copied unchanged."
+    },
+    {
+      "exerciseId": "lib-standing-calf-raise-bodyweight",
+      "file": "web/artwork/calf-raise/frame-1.svg",
+      "sha256": "9a933f3705dd8825d0a4aa1151248ef7445be00714cd59c56017b75e1455f74b",
+      "manifestEntry": {
+        "id": "exercise-calf-raise",
+        "slug": "calf-raise",
+        "name": "Calf Raise",
+        "exerciseType": "bodyweight_reps",
+        "equipment": "Bodyweight",
+        "primaryMuscle": "Calves",
+        "secondaryMuscles": [],
+        "isStretch": false,
+        "frames": [
+          {
+            "index": 1,
+            "path": "assets/calf-raise/frame-1.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          {
+            "index": 2,
+            "path": "assets/calf-raise/frame-2.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          {
+            "index": 3,
+            "path": "assets/calf-raise/frame-3.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          }
+        ],
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      "review": "First frame visually reviewed; matching movement and equipment. Copied unchanged."
+    },
+    {
+      "exerciseId": "lib-wrist-curl-barbell",
+      "file": "web/artwork/wrist-curl/frame-1.svg",
+      "sha256": "f19588288ed58a99ca0cb98040515c097bb4a850edcb75ccb037907b08b69195",
+      "manifestEntry": {
+        "id": "exercise-wrist-curl",
+        "slug": "wrist-curl",
+        "name": "Wrist Curl",
+        "exerciseType": "weight_reps",
+        "equipment": "Barbell",
+        "primaryMuscle": "Forearms",
+        "secondaryMuscles": [],
+        "isStretch": false,
+        "frames": [
+          {
+            "index": 1,
+            "path": "assets/wrist-curl/frame-1.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          {
+            "index": 2,
+            "path": "assets/wrist-curl/frame-2.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          {
+            "index": 3,
+            "path": "assets/wrist-curl/frame-3.svg",
+            "width": 512,
+            "height": 512,
+            "format": "svg",
+            "attribution": {
+              "creator": "Bryl Lim",
+              "creatorUrl": "https://bryllim.com",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          }
+        ],
+        "attribution": {
+          "creator": "Bryl Lim",
+          "creatorUrl": "https://bryllim.com",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      "review": "First frame visually reviewed; matching movement and equipment. Copied unchanged."
+    }
+  ]
+}

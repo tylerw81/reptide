@@ -1,0 +1,11 @@
+import {plateMark} from './brand-mark.js';
+// Small shared building blocks for every screen: DOM lookup, HTML escaping, icons, number and time formatting, the brand mark and empty states.
+export const $=s=>document.querySelector(s), esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+export const paths={measure:'M4 4h16v16H4zM8 4v5m4-5v3m4-3v5M4 12h3m-3 4h5',arrow:'m5 12 14 0m-5-5 5 5-5 5',back:'m15 18-6-6 6-6',plus:'M12 5v14M5 12h14',check:'m5 12 4 4L19 6',close:'m6 6 12 12M6 18 18 6',train:'M6 7v10M3 9v6m15-8v10m3-8v6M6 12h12',history:'M3 11a9 9 0 1 1 2.5 7M3 4v7h7m2-4v5l3 2',chart:'M4 19V5m0 14h16M8 15l4-5 4 2 4-6',settings:'M4 7h16M4 17h16M8 4v6m8 4v6',clock:'M12 8v5l3 2M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0',edit:'m14 5 5 5M4 20l5-1L20 8l-5-5L4 14v6Z',search:'M21 21l-5-5M18 10a8 8 0 1 1-16 0 8 8 0 0 1 16 0',more:'M5 12h.01M12 12h.01M19 12h.01',download:'M12 3v12m-5-5 5 5 5-5M4 16v5h16v-5',upload:'M12 16V4m-5 5 5-5 5 5M4 16v5h16v-5',trash:'M3 6h18M9 6V3h6v3M6 6l1 15h10l1-15M10 10v7m4-7v7',bolt:'m13 2-9 12h7l-1 8L21 9h-8l0-7Z',trophy:'M8 3h8v8a4 4 0 0 1-8 0V3Zm0 2H4v4a4 4 0 0 0 4 4m8-8h4v4a4 4 0 0 1-4 4m-4 2v6m-4 0h8',shield:'m12 2 8 3v6c0 5-8 11-8 11S4 16 4 11V5l8-3Z',chevron:'m9 5 7 7-7 7'};
+export const icon=(name,size=22)=>`<svg width="${size}" height="${size}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="${paths[name]||paths.train}"/></svg>`;
+export const fmt=n=>new Intl.NumberFormat(undefined,{maximumFractionDigits:1}).format(n);
+export const date=n=>new Date(n).toLocaleDateString(undefined,{month:'short',day:'numeric'});
+export const duration=n=>`${Math.max(1,Math.round(n/60000))} min`;
+export const elapsed=n=>`${Math.floor(n/60)}:${String(n%60).padStart(2,'0')}`;
+export function brand(){return `<div class="brand">${plateMark('brand-mark',{size:32})}<span>REPTIDE<span class="brand-dot">.</span></span></div>`;}
+export function empty(i,title,copy,label,action){return `<div class="empty-state"><div class="empty-icon">${icon(i,32)}</div><h2>${title}</h2><p>${copy}</p>${label?`<button class="button secondary" data-action="${action}">${label}${icon('arrow',18)}</button>`:''}</div>`;}
