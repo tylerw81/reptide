@@ -68,6 +68,10 @@ function showInstallHint() {
   document.getElementById('install-title')?.focus();
 }
 
+// iPhone zooms the page into any text box under 16px, which made search and set logging jump around.
+// styles.css sizes inputs at 16px under html.ios.
+if (isIOS()) document.documentElement.classList.add('ios');
+
 if ('serviceWorker' in navigator) {
   navigator.serviceWorker.register('sw.js').catch(() => { /* offline copy is a bonus; the app still works online */ });
 }

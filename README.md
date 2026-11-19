@@ -1,6 +1,6 @@
 # Reptide (iPhone beta)
 
-A workout tracker you add to your iPhone Home Screen. Version 0.9.43.
+A workout tracker you add to your iPhone Home Screen. Version 0.9.44.
 
 ## Install on iPhone
 1. Open the app link in **Safari**.

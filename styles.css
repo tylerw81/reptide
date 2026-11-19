@@ -193,3 +193,8 @@
 /* Share dialog: the feed post, then the story shown smaller. */
 .image-export-title{margin:20px 0 8px;font-size:18px;display:flex;gap:8px;align-items:baseline;flex-wrap:wrap}.image-export-title .muted{font-size:14px;font-weight:500}
 .image-export-story img{display:block;width:auto;max-width:100%;max-height:62dvh;margin:0 auto}
+
+/* Exercise picker: steady sheet height, so the search box doesn't move as results narrow. iPhone (html.ios, set by
+   iphone/iphone.js): 16px inputs, because iPhone zooms the page into smaller ones. */
+.modal.picker-sheet{height:90dvh}@media(min-width:700px){.modal.picker-sheet{height:min(88dvh,780px)}}
+html.ios input,html.ios select,html.ios textarea{font-size:16px}
